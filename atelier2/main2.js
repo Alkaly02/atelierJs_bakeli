@@ -7,6 +7,8 @@ function ageAvarage(monTableau) {
         
     // }
 
+    // comment acceder aux elements d'un tableau ?
+
     for (let index=0; index < monTableau.length; index++){
         // console.log(index);
         /**
