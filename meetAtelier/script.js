@@ -36,7 +36,7 @@ function insererLiNode(textAInserer) {
 insererLiNode("On fait un meet 1") // p
 insererLiNode("On fait un meet 2") // div
 insererLiNode("On fait un meet 3") // li
-insererLiNode("On fait un meet 4") // main
+insererLiNode("On fait un meet 4") // section
 insererLiNode("On fait un meet 5")
 insererLiNode("On fait un meet 6")
 insererLiNode("On fait un meet 7")
